@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm Dominik Sienczuk a 3rd year student at Heriot-Watt University inspiring to be a software engineer. I'm from the USA but currently living in Scotland.
+I'm Dominik Sienczuk a 3rd year student at Heriot-Watt University inspiring to be a software engineer. I'm Polish born American and currently living in Scotland.
 
 ### 📭 How to reach me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dominiks007/)
