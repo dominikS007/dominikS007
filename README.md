@@ -9,7 +9,7 @@ I'm Dominik Sienczuk a graduate from Heriot-Watt University inspiring to be a so
 
 ### Hacktoberfest
 <img height="50" src="https://github.com/dominikS007/dominikS007/blob/main/hacktoberfest.png?raw=true">
-I took part in the Hacktoberfest which is organized by Digitalocean back in 2019. I didn't know what I was doing and it was my first ever experience in open source. 
+I took part in the Hacktoberfest which is organized by Digitalocean back in 2019. I didn't have much experience in open source, making it very insightful. 
 
 
 ### Languages and Tools:
