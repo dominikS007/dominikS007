@@ -4,7 +4,6 @@ I'm Dominik Sienczuk a graduate from Heriot-Watt University inspiring to be a so
 
 ### 📭 How to reach me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dominiks007/)
-[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/dominik.sienczuk/)
 <a href="mailto:dominiksk09@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 ### Hacktoberfest
