@@ -1,28 +1,48 @@
-### Hello World 👋
+## Hello, my name is Dominik Sienczuk 👋
 
-I'm Dominik Sienczuk a graduate from Heriot-Watt University inspiring to be a software engineer. I'm Polish born American and currently living in the USA.
+<div align="center">
+  
+  [![Website Status][website-status]][Domski]
+  [![Profile Views][profile-views]][github]
+  [![Followers][followers]][followers-stat]
+  
+</div>
 
-### 📭 How to reach me
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dominiks007/)
-<a href="mailto:dominiksk09@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+### I'm a Software Engineer specializing in full-stack web development.
 
-### Languages and Tools:
+- 🌱 I'm currently lookin into the cloud 
+- 🎓 I'm a 2021 Gratudate
+- 💬 Ask me about video games, hardware, hiking, or web3
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+I'm currently part of the small IT team @[Go2][go2], making inhouse IT solutions for our staff so that we can deliver your freight.
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
+## 📭 Get in touch
 
-### My GitHub Stats
+* [www][Domski]
+* [Linked-in][Linkedin]
+* [Mail] 
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=dominikS007&show_icons=true&count_private=true&theme=radical" />
-</p>
 
+<details open>
+  <summary>📈 GitHub Stats</summary>
+  
+  <br>
+  
+  [![Dominik's Github stats][stats]][readme-stats]
+  
+</details>
+
+[Domski]: https://domsk.dev
+[website-status]: https://img.shields.io/website?url=https%3A%2F%2Fdomsk.dev
+[go2]: https://go2.us
+[Linkedin]: https://www.linkedin.com/in/dominiks007/
+[Mail]: mailto:dominiksk09@gmail.com
+[stats]: https://github-readme-stats.vercel.app/api?username=dominikS007&show_icons=true&count_private=true&theme=radical
+[readme-stats]: https://github.com/anuraghazra/github-readme-stats
+[profile-views]: https://komarev.com/ghpvc/?username=dominikS007
+[github]: https://github.com/dominikS007
+[followers]: https://img.shields.io/github/followers/dominikS007
+[followers-stat]: https://github.com/dominikS007?tab=followers
 <!--
 **dominikS007/dominikS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
