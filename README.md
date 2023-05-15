@@ -10,8 +10,7 @@
 
 ### I'm a Software Engineer specializing in full-stack web development.
 
-- 🌱 I'm currently lookin into the cloud 
-- 🎓 I'm a 2021 Gratudate
+- 🌱 I'm currently lookin into the cloud
 - 💬 Ask me about video games, hardware, hiking, or web3
 
 I'm currently part of the small IT team @[Go2][go2], making inhouse IT solutions for our staff so that we can deliver your freight.
