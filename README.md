@@ -21,7 +21,7 @@ I'm currently part of the small IT team @[Go2][go2], making inhouse IT solutions
 * [Linked-in][Linkedin]
 * [Mail] 
 
-
+<!--
 <details open>
   <summary>📈 GitHub Stats</summary>
   
@@ -30,7 +30,7 @@ I'm currently part of the small IT team @[Go2][go2], making inhouse IT solutions
   [![Dominik's Github stats][stats]][readme-stats]
   
 </details>
-
+-->
 [Domski]: https://domsk.dev
 [website-status]: https://img.shields.io/website?url=https%3A%2F%2Fdomsk.dev
 [go2]: https://go2.us
