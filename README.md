@@ -14,7 +14,7 @@
 - ☁ Passionate about emerging tech which invole the cloud
 - 💬 Ask me about video games, hardware, hiking, or web3
 
-I'm currently trying to start my own business, @[Fides][Fides]
+I'm currently trying to start my own business, @[Fides PDF][Fides]
 
 ## 📭 Get in touch
 
@@ -33,7 +33,7 @@ I'm currently trying to start my own business, @[Fides][Fides]
 </details>
 -->
 [Domski]: https://domsk.dev
-[Fides]: https://fides-solutions.io
+[Fides]: https://pdf.fides-solutions.io
 [website-status]: https://img.shields.io/website?url=https%3A%2F%2Fdomsk.dev
 [go2]: https://go2.us
 [Linkedin]: https://www.linkedin.com/in/dominiks007/
