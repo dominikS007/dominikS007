@@ -14,7 +14,7 @@
 - ☁ Passionate about emerging tech which invole the cloud
 - 💬 Ask me about video games, hardware, hiking, or web3
 
-I'm currently trying to start my own business, @[Fides PDF][Fides]
+I'm currently working on [Fides PDF][Fides]
 
 ## 📭 Get in touch
 
