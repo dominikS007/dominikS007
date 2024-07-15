@@ -8,13 +8,13 @@
   
 </div>
 
-### I'm a Software Engineer specializing in full-stack web development.
+### I'm a Software Engineer specializing in full-stack development.
 
 - 🌱 I'm currently looking into web dev along with the new emerging technologies
 - ☁ Passionate about emerging tech which invole the cloud
 - 💬 Ask me about video games, hardware, hiking, or web3
 
-I'm currently working on [Fides PDF][Fides]
+I'm currently working on [Fides][Fides]
 
 ## 📭 Get in touch
 
@@ -33,7 +33,7 @@ I'm currently working on [Fides PDF][Fides]
 </details>
 -->
 [Domski]: https://domsk.dev
-[Fides]: https://pdf.fides-solutions.io
+[Fides]: https://fides-solutions.io
 [website-status]: https://img.shields.io/website?url=https%3A%2F%2Fdomsk.dev
 [go2]: https://go2.us
 [Linkedin]: https://www.linkedin.com/in/dominiks007/
