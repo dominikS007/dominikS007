@@ -10,9 +10,9 @@
 
 ### I'm a Software Engineer specializing in full-stack development.
 
-- 🌱 I'm currently looking into web dev along with the new emerging technologies
+- 🌱 I'm currently looking into web dev along with iOS development
 - ☁ Passionate about emerging tech which invole the cloud
-- 💬 Ask me about video games, hardware, hiking, or web3
+- 💬 Ask me about anything like; video games, hardware, hiking, web3 or anything stupid 🤪
 
 I'm currently working on [Fides][Fides]
 
