@@ -33,7 +33,7 @@ I'm currently working on [Fides][Fides]
 </details>
 -->
 [Domski]: https://domsk.dev
-[Fides]: https://fides-solutions.io
+[Fides]: https://www.fides-solutions.io
 [website-status]: https://img.shields.io/website?url=https%3A%2F%2Fdomsk.dev
 [go2]: https://go2.us
 [Linkedin]: https://www.linkedin.com/in/dominiks007/
