@@ -10,9 +10,11 @@
 
 ### I'm a Software Engineer specializing in full-stack development.
 
-- 🌱 I'm currently looking into web dev along with iOS development
-- ☁ Passionate about emerging tech which invole the cloud
-- 💬 Ask me about anything like; video games, hardware, hiking, web3 or anything stupid 🤪
+- ⚛️ Currently working with **React Native** and **React.js**, leveraging the **TanStack** ecosystem
+- 🏗️ Architecting and designing cloud solutions in **Microsoft Azure**
+- ☁ Passionate about emerging tech, especially cloud-native architectures
+- 🤖 Enthusiastic about the new movement of **AI as a tool** — empowering developers, not replacing them
+- 💬 Ask me about anything like; video games, hardware, hiking, web3, or anything stupid 🤪
 
 I'm currently working on [Fides][Fides]
 
@@ -32,6 +34,7 @@ I'm currently working on [Fides][Fides]
   
 </details>
 -->
+
 [Domski]: https://domsk.dev
 [Fides]: https://www.fides-solutions.io
 [website-status]: https://img.shields.io/website?url=https%3A%2F%2Fdomsk.dev
@@ -44,18 +47,3 @@ I'm currently working on [Fides][Fides]
 [github]: https://github.com/dominikS007
 [followers]: https://img.shields.io/github/followers/dominikS007
 [followers-stat]: https://github.com/dominikS007?tab=followers
-<!--
-**dominikS007/dominikS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/dominikS007?tab=repositories&q=&type=&language=javascript)
--->
